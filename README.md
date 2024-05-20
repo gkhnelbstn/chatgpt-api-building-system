@@ -38,17 +38,12 @@ This one-hour course builds on the lessons from the popular **ChatGPT Prompt Eng
     cd building-systems-with-chatgpt-api
     ```
 
-2. **Install Dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Launch Jupyter Notebook**:
+2. **Launch Jupyter Notebook**:
     ```bash
     jupyter notebook
     ```
 
-4. **Explore the Notebooks**: Start with the `Introduction.ipynb` notebook to get an overview of the course content.
+3. **Explore the Notebooks**: Start with the `Introduction.ipynb` notebook to get an overview of the course content.
 
 ## Contributing
 
